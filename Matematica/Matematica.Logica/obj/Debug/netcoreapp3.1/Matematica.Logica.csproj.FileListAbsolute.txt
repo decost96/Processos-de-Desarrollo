@@ -1,0 +1,9 @@
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\bin\Debug\netcoreapp3.1\Matematica.Logica.deps.json
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\bin\Debug\netcoreapp3.1\Matematica.Logica.dll
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\bin\Debug\netcoreapp3.1\Matematica.Logica.pdb
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\obj\Debug\netcoreapp3.1\Matematica.Logica.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\obj\Debug\netcoreapp3.1\Matematica.Logica.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\obj\Debug\netcoreapp3.1\Matematica.Logica.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\obj\Debug\netcoreapp3.1\Matematica.Logica.dll
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\obj\Debug\netcoreapp3.1\Matematica.Logica.pdb
+C:\Users\DarkSlayer\source\repos\Matematica\Matematica.Logica\obj\Debug\netcoreapp3.1\Matematica.Logica.csprojAssemblyReference.cache
